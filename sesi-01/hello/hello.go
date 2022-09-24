@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	//belajar hello
 	fmt.Println("Hello")
+
 	fmt.Println("world")
 
 	fmt.Println("Hello World")
